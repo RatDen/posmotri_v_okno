@@ -52,13 +52,7 @@ ol {
 a {
   text-decoration: none;
 }
-.preloader {
-  position: absolute;
-  inset: 0;
-  z-index: 1;
-  width: 100%;
-  height: 100%;
-}
+
 .button {
   height: 34px;
   border: 1px solid #fff;
