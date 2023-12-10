@@ -53,6 +53,10 @@ a {
   text-decoration: none;
 }
 
+.preloader {
+  z-index: 10;
+}
+
 .button {
   height: 34px;
   border: 1px solid #fff;
